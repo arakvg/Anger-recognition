@@ -45,8 +45,4 @@ This project is a real-time anger recognition system using WebSockets and deep l
 - `flask`
 
 ## Author
-Developed by [Your Name].
-
-## License
-This project is licensed under the MIT License.
-
+Developed by Veronica Galasso.
